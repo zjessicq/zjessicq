@@ -2,7 +2,7 @@
 # hi, i'm Jessica! ⋆˚｡
 
 - engineering @ university of waterloo
-- data science / ml @ scotiabank
+- data scientist + ml @ scotiabank
 
 **let's connect:**
 
