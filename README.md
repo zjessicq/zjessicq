@@ -4,7 +4,6 @@
 - engineering @ university of waterloo
 - data science / ml @ scotiabank
 
-**let's connect!**
+**let's connect:**
 
-[linkedin](https://www.linkedin.com/in/jessica-zhiyue-zhang/) ୨ৎ [devpost](https://devpost.com/zjessicq) ✧ [email](j2784zha@uwaterloo.ca)
-
+[linkedin](https://www.linkedin.com/in/jessica-zhiyue-zhang/) ୨ৎ [devpost](https://devpost.com/zjessicq) ✧ [email](mailto:j2784zha@uwaterloo.ca)
